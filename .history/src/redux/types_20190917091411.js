@@ -1,0 +1,11 @@
+export const LOCALE_SET = '@md/LOCALE_SET';
+
+
+export const SIDEBAR_TOGGLE = 'SIDEBAR_TOGGLE';
+export const MODAL_TOGGLE = 'MODAL_TOGGLE';
+
+
+
+
+
+export const SET_UPLOAD_IMAGE_LIST_REQUEST = 'SET_UPLOAD_IMAGE_LIST_REQUEST';
