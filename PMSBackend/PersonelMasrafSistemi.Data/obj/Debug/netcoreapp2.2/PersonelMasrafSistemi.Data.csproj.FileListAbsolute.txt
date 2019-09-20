@@ -1,0 +1,6 @@
+C:\Users\IDECON5\source\repos\PersonelMasrafSistemi\PersonelMasrafSistemi.Data\bin\Debug\netcoreapp2.2\PersonelMasrafSistemi.Data.deps.json
+C:\Users\IDECON5\source\repos\PersonelMasrafSistemi\PersonelMasrafSistemi.Data\bin\Debug\netcoreapp2.2\PersonelMasrafSistemi.Data.dll
+C:\Users\IDECON5\source\repos\PersonelMasrafSistemi\PersonelMasrafSistemi.Data\obj\Debug\netcoreapp2.2\PersonelMasrafSistemi.Data.csprojAssemblyReference.cache
+C:\Users\IDECON5\source\repos\PersonelMasrafSistemi\PersonelMasrafSistemi.Data\obj\Debug\netcoreapp2.2\PersonelMasrafSistemi.Data.csproj.CoreCompileInputs.cache
+C:\Users\IDECON5\source\repos\PersonelMasrafSistemi\PersonelMasrafSistemi.Data\obj\Debug\netcoreapp2.2\PersonelMasrafSistemi.Data.AssemblyInfoInputs.cache
+C:\Users\IDECON5\source\repos\PersonelMasrafSistemi\PersonelMasrafSistemi.Data\obj\Debug\netcoreapp2.2\PersonelMasrafSistemi.Data.AssemblyInfo.cs
