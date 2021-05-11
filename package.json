@@ -10,7 +10,7 @@
     "connected-react-router": "^6.5.2",
     "history": "^4.9.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "material-table": "^1.50.0",
     "moment": "^2.24.0",
     "react": "^16.9.0",
